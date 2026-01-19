@@ -92,6 +92,3 @@ Screenshots included in this repository:
 
 ---
 
-## 👤 About Me
-I am a **beginner in data analytics** and created this project to practice and improve my **Power BI skills**.  
-I am actively learning and open to feedback and suggestions.
