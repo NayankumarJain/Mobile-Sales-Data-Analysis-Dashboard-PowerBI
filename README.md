@@ -91,4 +91,7 @@ Screenshots included in this repository:
 - Performing time-based analysis (MTD & YoY)
 
 ---
+## 👩‍💼 Connect with Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/nayan-jain-9ba872367/
 
