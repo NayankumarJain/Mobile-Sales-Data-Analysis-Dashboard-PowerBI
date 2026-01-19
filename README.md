@@ -6,6 +6,7 @@ It helps analyze mobile phone sales performance across **time, brand, city, paym
 
 The dashboard is designed to provide **quick insights for business decision-making** through visual KPIs and reports.
 
+---
 
 ## 🎯 Objectives of the Project
 - Analyze **total sales, quantity, and transactions**
@@ -18,6 +19,7 @@ The dashboard is designed to provide **quick insights for business decision-maki
   - Payment Method
   - Day, Month, Quarter, and Year
 
+---
 
 ## 🛠 Tools & Technologies Used
 - **Microsoft Power BI**
@@ -25,6 +27,7 @@ The dashboard is designed to provide **quick insights for business decision-maki
 - **Power Query (for data cleaning & transformation)**
 - **Excel / CSV (data source)**
 
+---
 
 ## 📈 Key KPIs
 - **Total Sales**
@@ -34,6 +37,7 @@ The dashboard is designed to provide **quick insights for business decision-maki
 - **Month-to-Date (MTD) Sales**
 - **Same Period Last Year Sales**
 
+---
 
 ## 📊 Dashboard Features
 
@@ -53,6 +57,7 @@ The dashboard is designed to provide **quick insights for business decision-maki
 - Quarter-wise comparison
 - Month-wise comparison with last year data
 
+---
 
 ## 🧩 Filters & Slicers Used
 - Mobile Model
@@ -61,6 +66,7 @@ The dashboard is designed to provide **quick insights for business decision-maki
 - Year / Quarter / Month / Day
 - Month Selection
 
+---
 
 ## 🖼 Dashboard Screenshots
 Screenshots included in this repository:
@@ -68,12 +74,14 @@ Screenshots included in this repository:
 - **MTD Report**
 - **Same Period Last Year Report**
 
+---
 
 ## 📂 Files Included in This Repository
 - `Mobile Sales Dashboard.pbix` – Power BI report file
 - `Screenshots/` – Dashboard images
 - `README.md` – Project documentation
 
+---
 
 ## 🚀 What I Learned from This Project
 - Creating professional Power BI dashboards
@@ -82,5 +90,8 @@ Screenshots included in this repository:
 - Using slicers and filters for interactivity
 - Performing time-based analysis (MTD & YoY)
 
+---
 
-
+## 👤 About Me
+I am a **beginner in data analytics** and created this project to practice and improve my **Power BI skills**.  
+I am actively learning and open to feedback and suggestions.
